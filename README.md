@@ -1,4 +1,4 @@
-[![MasterHead](https://r.resimlink.com/EL8djCri.jpg)
+![MasterHead](https://r.resimlink.com/EL8djCri.jpg)
 
 <h1 align="center">Hi 👋, I'm Seyitmuhammet Begenjov</h1>
 <h3 align="center">I am originally from Turkmenistan and I met the software world in 2016 and I am currently actively taking software courses and constantly improving myself.</h3>
