@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Seyitmuhammet Begenjov</h1>
 <h3 align="center">I am originally from Turkmenistan and I met the software world in 2016 and I am currently actively taking software courses and constantly improving myself.</h3>
 
-- 🔭 I’m currently working on **C#, SQL, HTML, CSS**
+- 🔭 I’m currently working on **C#, SQL, HTML, CSS, MVC, BOOTSTRAP**
 
 - 🌱 I’m currently learning **Course and on my own**
 
